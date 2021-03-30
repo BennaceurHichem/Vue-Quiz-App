@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # typescript-app
 
 ## Project setup
@@ -32,3 +33,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# Vue-Quiz-App
+this is  a simple quiz App built wiht Vue.js  
+>>>>>>> 5f19e10550324eecd2c327652be4dbf4ad15fe44
